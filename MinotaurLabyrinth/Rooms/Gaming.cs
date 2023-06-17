@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 ﻿namespace MinotaurLabyrinth
+=======
+namespace MinotaurLabyrinth
+>>>>>>> f2cafba (Gaming method A1)
 
 {
     /// <summary>
     /// Represents a portal room, which contains portal that can take the sword.
     ///</summary>
+<<<<<<< HEAD
     // name class Game
+=======
+>>>>>>> f2cafba (Gaming method A1)
     public class Game : Room
     {
         static Game()
@@ -49,4 +56,8 @@
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f2cafba (Gaming method A1)
