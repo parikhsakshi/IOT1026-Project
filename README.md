@@ -8,6 +8,7 @@
     <a href="https://codecov.io/gh/parikhsakshi/IOT1026-Project" > 
     <img src="https://codecov.io/gh/parikhsakshi/IOT1026-Project/branch/main/graph/badge.svg?token=JS0857X5JD"/> </a>
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
+    </a>
     
 </p>
 
