@@ -6,7 +6,12 @@
     <img src="https://github.com/parikhsakshi/IOT1026-Project/actions/workflows/formatting.yml/badge.svg"/>
 	<br/>
     <a href="https://codecov.io/gh/parikhsakshi/IOT1026-Project" > 
+<<<<<<< HEAD
     <img src="https://codecov.io/gh/parikhsakshi/IOT1026-Project/branch/main/graph/badge.svg?token=JS0857X5JD"/> </a>
+=======
+    <img src="https://codecov.io/gh/parikhsakshi/IOT1026-Project/branch/main/graph/badge.svg?token=JS0857X5JD"/> 
+    </a>
+>>>>>>> 43d8e1f (badge update)
 	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
     
