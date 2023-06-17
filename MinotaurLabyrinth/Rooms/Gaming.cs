@@ -4,6 +4,7 @@
     /// <summary>
     /// Represents a portal room, which contains portal that can take the sword.
     ///</summary>
+    // name class Game
     public class Game : Room
     {
         static Game()
