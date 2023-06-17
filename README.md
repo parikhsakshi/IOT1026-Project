@@ -13,6 +13,7 @@
 
 # IOT1026-Project
 Write a description of your `Room` and `Monster` class here.
+The first step is to use our imagination to create a room that will engage and challenge the hero.The protagonist must not only negotiate the perilous rooms in the labyrinth's depths but also face a variety of terrifying animals that lurk in the shadows. The creatures who live there change as the labyrinth does. It is now our responsibility to give life to a dreadful new creature, one that will make any hero who dares to visit its dominion shudder.
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
