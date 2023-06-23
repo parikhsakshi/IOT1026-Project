@@ -111,7 +111,7 @@
             Location gelLocation = ProceduralGenerator.GetRandomLocation();
             Doreamon gel = new Doreamon(gelLocation);
             map.GetRoomAtLocation(gelLocation).AddMonster(gel);
-            map.AddMoveable(gel);
+            map.Addmoveable(gel);
         }
     }
 }
