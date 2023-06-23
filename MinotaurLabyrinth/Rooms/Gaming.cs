@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿namespace MinotaurLabyrinth
 =======
 namespace MinotaurLabyrinth
 >>>>>>> f2cafba (Gaming method A1)
+=======
+﻿namespace MinotaurLabyrinth
+>>>>>>> dca1384 (Gaming method)
 
 {
     /// <summary>
@@ -57,7 +61,11 @@ namespace MinotaurLabyrinth
         }
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> f2cafba (Gaming method A1)
+=======
+}
+>>>>>>> dca1384 (Gaming method)
