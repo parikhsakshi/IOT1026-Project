@@ -56,8 +56,8 @@
         }
     }
 
-    internal interface IMoveable
+    internal interface Imoveable
     {
-        void Move(Hero hero, Map map);
+        void move(Hero hero, Map map);
     }
 }
