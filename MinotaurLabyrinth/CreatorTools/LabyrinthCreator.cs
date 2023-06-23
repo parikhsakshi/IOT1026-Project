@@ -108,6 +108,10 @@
             Location minotaurLocation = ProceduralGenerator.GetRandomLocation();
             Room room = map.GetRoomAtLocation(minotaurLocation);
             room.AddMonster(new Minotaur());
+            Location gelLocation = ProceduralGenerator.GetRandomLocation();
+            Doreamon gel = new Doreamon(gelLocation);
+            map.GetRoomAtLocation(gelLocation).AddMonster(gel);
+            map.AddMoveable(gel);
         }
     }
 }
