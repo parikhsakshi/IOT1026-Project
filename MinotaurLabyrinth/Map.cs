@@ -8,7 +8,7 @@
 
         private readonly List<IMoveable> _moveables = new List<IMoveable>();
 
-        public void AddMoveable(IMoveable moveable)
+        public void Addmoveable(IMoveable moveable)
         {
             _moveables.Add(moveable);
         }
