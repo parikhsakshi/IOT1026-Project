@@ -1,5 +1,6 @@
 ﻿namespace MinotaurLabyrinth
 {
+    //commenttest
     /// <summary>
     /// A static class that provides methods to create and initialize a labyrinth map with various features, such as an entrance, sword, traps, and monsters.
     /// </summary>
