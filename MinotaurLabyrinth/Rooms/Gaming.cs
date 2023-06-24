@@ -1,3 +1,4 @@
+/*
 <<<<<<< HEAD
 <<<<<<< HEAD
 ﻿namespace MinotaurLabyrinth
@@ -69,3 +70,4 @@ namespace MinotaurLabyrinth
 =======
 }
 >>>>>>> dca1384 (Gaming method)
+*/
