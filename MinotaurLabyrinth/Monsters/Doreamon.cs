@@ -55,9 +55,4 @@
             map.GetRoomAtLocation(_location).AddMonster(this);
         }
     }
-
-    internal interface Imoveable
-    {
-        void move(Hero hero, Map map);
-    }
 }
