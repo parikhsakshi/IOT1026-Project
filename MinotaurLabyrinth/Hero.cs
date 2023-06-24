@@ -5,6 +5,7 @@
     {
         public Hero()
         {
+            Location = new Location(0, 0);
         }
 
         // Creates a new player that starts at the given location.
